@@ -139,6 +139,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Kawaldeep Kaur, Student, India
 - Anjali Singh , Student , Delhi,India
 - Stephanie Patterson, SQL Developer - USA
+- Bhavikk Shah , India
 - Yordan Zhelev, Front-End Dev - Bulgaria
 - John Oneil, Front-End Dev - Baltimore, USA
 - Jason Leonhard, Full Stack - Portland, USA
