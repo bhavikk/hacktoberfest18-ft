@@ -202,6 +202,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 - Wisnu Febriadi, Tanjungpinang, Indonesia
 - Shuvam Lal, Student - West Bengal,India
 - Utsav Krish - Varanasi, India
+- Harsh Patel - Mumbai, India
 - Nnamadim Chike, Web Developer - Lagos, Nigeria
 - Harman Kahlon, Student - Chandigarh, India
 - Allen Shaji, Front-end - Kerala, India
